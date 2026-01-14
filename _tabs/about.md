@@ -1,8 +1,17 @@
 ---
-# the default layout is 'page'
-icon: fas fa-info-circle
-order: 4
+title: About
+icon: fas fa-user
+order: 1
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+## About Me
+
+Hi 👋  
+This is my personal site built with **Chirpy** and **GitHub Pages**.
+
+I write about:
+- Software engineering
+- System design
+- Hobbies
+
+More coming soon!
