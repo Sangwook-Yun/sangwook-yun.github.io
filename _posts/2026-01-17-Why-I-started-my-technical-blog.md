@@ -2,7 +2,7 @@
 layout: post
 title: "Why I started my technical blog"
 date: 2026-01-17 09:00:00 +0000
-categories: [Software Engineer life]
+categories: [Software Engineer Life]
 tags: [software engineer, personal]
 ---
 
